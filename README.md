@@ -30,7 +30,7 @@ suas principais informações, fazer avaliações do mesmo e até editá-los. Pa
 Nesse menu, tem-se uma versatilidade de opções. Navegando por eles, será possível desde interagir 
 diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver lista de jogos filtrada).
 * Será aberto o menu de **Jogo** com as várias opções.
-  - O **Usuário** decide o que lhe interessa pelo menu. Caso escolha a opção “Adicionar”, será perguntado se 
+  - O **Usuário** decide o que lhe interessa pelo menu. Caso escolha a opção ***“Adicionar”***, será perguntado se 
   é um novo Usuário. Caso seja, será redirecionado para a página de criação. Caso não, será feito o 
   processo de login com o nome de usuário/e-mail e senha. Após essa validação, serão pedidas as 
   seguintes informações do jogo:
@@ -42,10 +42,10 @@ diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver list
     - Está atualmente crackeado ou não?; II. 
     - Caso esteja, será pedido o nome do Grupo, descrição e os Membros que fazem parte.
     - Lojas em que se encontra disponível para venda; III. 
-        I. Não poderá ser nulo.
-       II. Caso não esteja na base de dados, o Usuário precisará cadastrá-lo, para ajudar o crescimento do 
-        sistema.
-      III. Pode existir mais de um.
+        * **I.** Não poderá ser nulo.
+        * **II.** Caso não esteja na base de dados, o Usuário precisará cadastrá-lo, para ajudar o crescimento do 
+          sistema.
+        * **III.** Pode existir mais de um.
 
    - Na opção ***“Editar”***, **Usuário** pode alterar informações que estão descritas no tópico 1.1.1. Para isso, o 
      mesmo também precisa ter um cadastro feito ou efetuar um, caso queira fazer uso dessa opção;
