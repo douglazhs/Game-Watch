@@ -1,5 +1,5 @@
 # Game Watch 🎮	
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  
 O Game Watch consiste em um sistema aberto a comunidade. Os usuários serão capazes de adicionar jogo com 
 suas principais informações, fazer avaliações do mesmo e até editá-los. Para utilizar de muitos destes artifícios, o 
 **Usuário** terá que primeiro criar um ***login***. O login é composto por:
