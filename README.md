@@ -26,7 +26,7 @@ suas principais informações, fazer avaliações do mesmo e até editá-los. Pa
 I. Não pode ser vazio.
 
 ---
-### 1. Menu Principal
+### Menu Principal
 Nesse menu, tem-se uma versatilidade de opções. Navegando por eles, será possível desde interagir 
 diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver lista de jogos filtrada)
 1.1. Será aberto o menu de **Jogo** com as várias opções.
