@@ -1,5 +1,5 @@
 # Game Watch
-[![]https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white]
+[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
  Sistema de monitoramento de jogos, com diversas possibilidades, como verificação de crack, nome, genero, data de lançamento, entre outros. O sistema também oferece a possibilidade de fazer avaliações de games e de grupos de crack.
 
 --- 
