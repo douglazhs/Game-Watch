@@ -23,7 +23,7 @@ suas principais informações, fazer avaliações do mesmo e até editá-los. Pa
 * E-mail; I.
 * Nome de usuário; I. 
 * Senha; I.
-  * **I.** Não pode ser vazio.
+  - **I.** Não pode ser vazio.
 
 ---
 ### Menu Principal
