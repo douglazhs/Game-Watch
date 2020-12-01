@@ -28,7 +28,7 @@ suas principais informações, fazer avaliações do mesmo e até editá-los. Pa
 ---
 ### Menu Principal
 Nesse menu, tem-se uma versatilidade de opções. Navegando por eles, será possível desde interagir 
-diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver lista de jogos filtrada)
+diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver lista de jogos filtrada).
 * Será aberto o menu de **Jogo** com as várias opções.
   - O **Usuário** decide o que lhe interessa pelo menu. Caso escolha a opção “Adicionar”, será perguntado se 
   é um novo Usuário. Caso seja, será redirecionado para a página de criação. Caso não, será feito o 
@@ -51,8 +51,8 @@ diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver list
      mesmo também precisa ter um cadastro feito ou efetuar um, caso queira fazer uso dessa opção;
 
     - Na opção “Ver Jogo” o Usuário poderá pesquisar por algum jogo que queira e, caso alguém já tenha o 
-  cadastrado no sistema, será mostrado todas as suas informações e a opção de ver os **Posts** feitos por 
-  outros **Usuários**, além dos **Requisitos** Mínimos para rodar o jogo.
+      cadastrado no sistema, será mostrado todas as suas informações e a opção de ver os **Posts** feitos por 
+      outros **Usuários**, além dos **Requisitos** Mínimos para rodar o jogo.
 
       * Os usuários tem a opção de se identificar na hora do **Post** ou não. Caso não se identifique, seu nome 
         de usuário ficar como anônimo na postagem.
@@ -62,7 +62,7 @@ diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver list
         jogo sem problemas).
 
    - Em avaliar, será pedido o login do **Usuário**. Após isso, ele será redirecionado à criação do **Post**, que 
-  consiste no **Comentário** e em uma nota de 0-5 para o jogo.
+     consiste no **Comentário** e em uma nota de 0-5 para o jogo.
 
  - O usuário pode querer ver os jogos e suas notas antes de jogá-lo, para ter uma noção da experiência que terá.
   Existe a possibilidade de ver todos os **Jogos** cadastrados no sistema e ainda ordená-los pela nota, podendo 
