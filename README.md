@@ -47,10 +47,10 @@ diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver list
         sistema.
       - Pode existir mais de um.
 
-   - Na opção “Editar”, **Usuário** pode alterar informações que estão descritas no tópico 1.1.1. Para isso, o 
+   - Na opção ***“Editar”***, **Usuário** pode alterar informações que estão descritas no tópico 1.1.1. Para isso, o 
      mesmo também precisa ter um cadastro feito ou efetuar um, caso queira fazer uso dessa opção;
 
-   - Na opção “Ver Jogo” o Usuário poderá pesquisar por algum jogo que queira e, caso alguém já tenha o 
+   - Na opção ***“Ver Jogo”*** o Usuário poderá pesquisar por algum jogo que queira e, caso alguém já tenha o 
      cadastrado no sistema, será mostrado todas as suas informações e a opção de ver os **Posts** feitos por 
      outros **Usuários**, além dos **Requisitos** Mínimos para rodar o jogo.
 
@@ -61,7 +61,7 @@ diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver list
         **disco**(armazenamento necessário para instalar) e **RAM**(quantidade de memória RAM para abrir o 
         jogo sem problemas).
 
-  - Em avaliar, será pedido o login do **Usuário**. Após isso, ele será redirecionado à criação do **Post**, que 
+  - Em ***"Avaliar"***, será pedido o login do **Usuário**. Após isso, ele será redirecionado à criação do **Post**, que 
      consiste no **Comentário** e em uma nota de 0-5 para o jogo.
 
  - O usuário pode querer ver os jogos e suas notas antes de jogá-lo, para ter uma noção da experiência que terá.
@@ -71,15 +71,15 @@ diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver list
  - Os famosos **Grupos** de crack, que também estão contidos nesse sistema, são acessados a partir da terceira 
 opção do Menu Principal, com as seguintes possibilidades:
 
-   - Em “Ver Grupos”, serão listados todos os **Grupos** que estão cadastrados no sistema, com suas devidas 
+   - Em ***“Ver Grupos”***, serão listados todos os **Grupos** que estão cadastrados no sistema, com suas devidas 
      informações, como o seu nome, descrição, membros(não necessariamente os nomes reais) e a sua nota, 
      baseada nas avaliações dos **Posts**.
 
-   - Já em “Deixar Mensagem”, segue os mesmos passos dos tópicos 1.1.3 e 1.1.4, mudando apenas o foco 
+   - Já em ***“Deixar Mensagem”***, segue os mesmos passos dos tópicos 1.1.3 e 1.1.4, mudando apenas o foco 
      para o **Grupo**.
 
  - Ainda falando sobre o Menu Principal, tem-se a possibilidade de conhecer mais um pouco sobre as 
-funcionalidades do sistema e as proteções de jogos. Na opção “Help”, será mostrado um breve resumo sobre 
+funcionalidades do sistema e as proteções de jogos. Na opção ***“Help”***, será mostrado um breve resumo sobre 
 o sistema, suas funcionalidades e as proteções. 
 
- - Estão contidas em “Sobre o programa” informações do aplicativo, como nome e descrição.
+ - Estão contidas em ***“Sobre o programa”*** informações do aplicativo, como nome e descrição.
