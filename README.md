@@ -1,4 +1,5 @@
 # Game Watch 🎮	
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 O Game Watch consiste em um sistema aberto a comunidade. Os usuários serão capazes de adicionar jogo com 
 suas principais informações, fazer avaliações do mesmo e até editá-los. Para utilizar de muitos destes artifícios, o 
 **Usuário** terá que primeiro criar um ***login***. O login é composto por:
@@ -22,8 +23,9 @@ não adotam esse tipo artifício em seus games, como a CD Project, que tem a seg
 bom o suficiente, as pessoas comprá-lo-ão”.
 
 ---
-## Linguagem 💻
+## Linguagem/Hospedagem 💻
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+[![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://drive.google.com/drive/folders/19gkc2TRNZSsaR0PFhQl7dIU8PVkiQYS9?usp=sharing)
 ---
 ### Menu Principal
 Nesse menu, tem-se uma versatilidade de opções. Navegando por eles, será possível desde interagir 
