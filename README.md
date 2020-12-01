@@ -2,7 +2,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  
 O Game Watch consiste em um sistema aberto a comunidade. Os usuários serão capazes de adicionar jogo com 
 suas principais informações, fazer avaliações do mesmo e até editá-los. Para utilizar de muitos destes artifícios, o 
-**Usuário** terá que primeiro criar um ***login***. O login é composto por:
+**Usuário** terá que primeiro criar um ***login***. O ***login*** é composto por:
 * Nome; **I**
 * E-mail; **I**
 * Nome de usuário; **I** 
@@ -19,8 +19,8 @@ que seria esse “burlamento de proteção”? Bom, muitos jogos atualmente acom
 que os usuários não consigam obtê-lo de outra forma, a não ser comprando. Porém, é só questão de tempo até que 
 grupos de programadores especializados na quebra desses sistemas de segurança apareçam e consigam burlar o 
 mesmo. Um dos mais famosos e mais utilizados desses sistemas de segurança é o Denuvo. Porém, muitas empresas 
-não adotam esse tipo artifício em seus games, como a CD Project, que tem a seguinte afirmativa: “Se meu jogo for 
-bom o suficiente, as pessoas comprá-lo-ão”.
+não adotam esse tipo artifício em seus games, como a CD Project, que tem a seguinte afirmativa: > Se meu jogo for 
+bom o suficiente, as pessoas comprá-lo-ão.
 
 ---
 ## Linguagem/Hospedagem 💻
