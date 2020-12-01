@@ -6,7 +6,7 @@ Sistema de monitoramento de jogos, com diversas possibilidades, como verificaç�
    Na internet existem várias opções para encontrar informações de jogos de quaisquer plataformas. Desde 
 informações como o nome do jogo e gênero até os requisitos mínimos para rodar o mesmo. Porém, muitas vezes não 
 está contido tudo em um só lugar e o usuário tem que acabar gastando seu tempo buscando as informações em sites 
-diferentes. Com o Game Watch, é diferente. Tudo está contido em um só lugar.
+diferentes. Com o Game Watch, é diferente. Tudo está contido em um só lugar.  
    Além dessas informações, muitas pessoas também buscam sobre o burlamento das proteções dos jogos. Mas, o 
 que seria esse “burlamento de proteção”? Bom, muitos jogos atualmente acompanham um sistema anti-trapaça para 
 que os usuários não consigam obtê-lo de outra forma, a não ser comprando. Porém, é só questão de tempo até que 
