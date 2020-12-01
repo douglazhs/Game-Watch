@@ -1,6 +1,12 @@
 # Game Watch 🎮	
-Sistema de monitoramento de jogos, com diversas possibilidades, como verificação de crack, nome, genero, data de lançamento, entre outros. O sistema também oferece a possibilidade de fazer avaliações de games e de grupos de crack.
-
+O Game Watch consiste em um sistema aberto a comunidade. Os usuários serão capazes de adicionar jogo com 
+suas principais informações, fazer avaliações do mesmo e até editá-los. Para utilizar de muitos destes artifícios, o 
+**Usuário** terá que primeiro criar um ***login***. O login é composto por:
+* Nome; **I**
+* E-mail; **I**
+* Nome de usuário; **I** 
+* Senha; **I**
+  - **I.** Não pode ser vazio.
 --- 
 ## Sobre 📢
    Na internet existem várias opções para encontrar informações de jogos de quaisquer plataformas. Desde 
@@ -19,15 +25,6 @@ bom o suficiente, as pessoas comprá-lo-ão”.
 ## Linguagem 💻
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 ---
-O Game Watch consiste em um sistema aberto a comunidade. Os usuários serão capazes de adicionar jogo com 
-suas principais informações, fazer avaliações do mesmo e até editá-los. Para utilizar de muitos destes artifícios, o 
-**Usuário** terá que primeiro criar um login. O login é composto por:
-* Nome; I.
-* E-mail; I.
-* Nome de usuário; I. 
-* Senha; I.
-  - **I.** Não pode ser vazio.
----
 ### Menu Principal
 Nesse menu, tem-se uma versatilidade de opções. Navegando por eles, será possível desde interagir 
 diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver lista de jogos filtrada).
@@ -36,14 +33,14 @@ diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver list
   é um novo Usuário. Caso seja, será redirecionado para a página de criação. Caso não, será feito o 
   processo de login com o nome de usuário/e-mail e senha. Após essa validação, serão pedidas as 
   seguintes informações do jogo:
-    - Nome; I. 
-    - Descrição; I. 
+    - Nome; **I** 
+    - Descrição; **I** 
     - Ano de lançamento;
     - Proteção;
-    - Gêneros; II. & III. 
-    - Está atualmente crackeado ou não?; II. 
+    - Gêneros; **II** & **III** 
+    - Está atualmente crackeado ou não?; **II** 
     - Caso esteja, será pedido o nome do Grupo, descrição e os Membros que fazem parte.
-    - Lojas em que se encontra disponível para venda; III. 
+    - Lojas em que se encontra disponível para venda; **III** 
         * **I.** Não poderá ser nulo.
         * **II.** Caso não esteja na base de dados, o Usuário precisará cadastrá-lo, para ajudar o crescimento do 
           sistema.
