@@ -19,11 +19,11 @@ bom o suficiente, as pessoas comprá-lo-ão”.
 O Game Watch consiste em um sistema aberto a comunidade. Os usuários serão capazes de adicionar jogo com 
 suas principais informações, fazer avaliações do mesmo e até editá-los. Para utilizar de muitos destes artifícios, o 
 **Usuário** terá que primeiro criar um login. O login é composto por:
-* Nome;  
-* E-mail; 
-* Nome de usuário; 
-* Senha;
-  - Não pode ser vazio.
+* Nome; I.
+* E-mail; I.
+* Nome de usuário; I. 
+* Senha; I.
+  I. Não pode ser vazio.
 
 ---
 ### Menu Principal
@@ -42,10 +42,10 @@ diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver list
     - Está atualmente crackeado ou não?; II. 
     - Caso esteja, será pedido o nome do Grupo, descrição e os Membros que fazem parte.
     - Lojas em que se encontra disponível para venda; III. 
-      - Não poderá ser nulo.
-      - Caso não esteja na base de dados, o Usuário precisará cadastrá-lo, para ajudar o crescimento do 
+        I. Não poderá ser nulo.
+       II. Caso não esteja na base de dados, o Usuário precisará cadastrá-lo, para ajudar o crescimento do 
         sistema.
-      - Pode existir mais de um.
+      III. Pode existir mais de um.
 
    - Na opção ***“Editar”***, **Usuário** pode alterar informações que estão descritas no tópico 1.1.1. Para isso, o 
      mesmo também precisa ter um cadastro feito ou efetuar um, caso queira fazer uso dessa opção;
@@ -54,9 +54,9 @@ diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver list
      cadastrado no sistema, será mostrado todas as suas informações e a opção de ver os **Posts** feitos por 
      outros **Usuários**, além dos **Requisitos** Mínimos para rodar o jogo.
 
-      * Os usuários tem a opção de se identificar na hora do **Post** ou não. Caso não se identifique, seu nome 
+      - Os usuários tem a opção de se identificar na hora do **Post** ou não. Caso não se identifique, seu nome 
         de usuário ficar como anônimo na postagem.
-      * Também há a possibilidade de ver os requisitos mínimos do jogo para ver se seu PC se encaixa neles.
+      - Também há a possibilidade de ver os requisitos mínimos do jogo para ver se seu PC se encaixa neles.
       - Neles estão contidas informações tais como: **CPU**(processador), **GPU**(placa de vídeo), 
         **disco**(armazenamento necessário para instalar) e **RAM**(quantidade de memória RAM para abrir o 
         jogo sem problemas).
