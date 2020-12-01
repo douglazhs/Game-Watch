@@ -1,8 +1,8 @@
-# Game Watch
+# Game Watch 🎮	
 Sistema de monitoramento de jogos, com diversas possibilidades, como verificação de crack, nome, genero, data de lançamento, entre outros. O sistema também oferece a possibilidade de fazer avaliações de games e de grupos de crack.
 
 --- 
-## Sobre
+## Sobre 📢
    Na internet existem várias opções para encontrar informações de jogos de quaisquer plataformas. Desde 
 informações como o nome do jogo e gênero até os requisitos mínimos para rodar o mesmo. Porém, muitas vezes não 
 está contido tudo em um só lugar e o usuário tem que acabar gastando seu tempo buscando as informações em sites 
@@ -16,9 +16,9 @@ não adotam esse tipo artifício em seus games, como a CD Project, que tem a seg
 bom o suficiente, as pessoas comprá-lo-ão”.
 
 ---
-## Linguagem: [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+## Linguagem 💻
+[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 ---
-
 O Game Watch consiste em um sistema aberto a comunidade. Os usuários serão capazes de adicionar jogo com 
 suas principais informações, fazer avaliações do mesmo e até editá-los. Para utilizar de muitos destes artifícios, o 
 **Usuário** terá que primeiro criar um login. O login é composto por:
@@ -28,7 +28,6 @@ suas principais informações, fazer avaliações do mesmo e até editá-los. Pa
 * Senha; I.
   - **I.** Não pode ser vazio.
 ---
-
 ### Menu Principal
 Nesse menu, tem-se uma versatilidade de opções. Navegando por eles, será possível desde interagir 
 diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver lista de jogos filtrada).
