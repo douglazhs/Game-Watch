@@ -1,21 +1,19 @@
-# Game Watch
-[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
- Sistema de monitoramento de jogos, com diversas possibilidades, como verificação de crack, nome, genero, data de lançamento, entre outros. O sistema também oferece a possibilidade de fazer avaliações de games e de grupos de crack.
+# Game Watch [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+Sistema de monitoramento de jogos, com diversas possibilidades, como verificação de crack, nome, genero, data de lançamento, entre outros. O sistema também oferece a possibilidade de fazer avaliações de games e de grupos de crack.
 
 --- 
 ## Sobre
-Na internet existem várias opções para encontrar informações de jogos de quaisquer plataformas. Desde 
+   Na internet existem várias opções para encontrar informações de jogos de quaisquer plataformas. Desde 
 informações como o nome do jogo e gênero até os requisitos mínimos para rodar o mesmo. Porém, muitas vezes não 
 está contido tudo em um só lugar e o usuário tem que acabar gastando seu tempo buscando as informações em sites 
 diferentes. Com o Game Watch, é diferente. Tudo está contido em um só lugar.
-Além dessas informações, muitas pessoas também buscam sobre o burlamento das proteções dos jogos. Mas, o 
+   Além dessas informações, muitas pessoas também buscam sobre o burlamento das proteções dos jogos. Mas, o 
 que seria esse “burlamento de proteção”? Bom, muitos jogos atualmente acompanham um sistema anti-trapaça para 
 que os usuários não consigam obtê-lo de outra forma, a não ser comprando. Porém, é só questão de tempo até que 
 grupos de programadores especializados na quebra desses sistemas de segurança apareçam e consigam burlar o 
 mesmo. Um dos mais famosos e mais utilizados desses sistemas de segurança é o Denuvo. Porém, muitas empresas 
 não adotam esse tipo artifício em seus games, como a CD Project, que tem a seguinte afirmativa: “Se meu jogo for 
 bom o suficiente, as pessoas comprá-lo-ão”.
-
 ---
 O Game Watch consiste em um sistema aberto a comunidade. Os usuários serão capazes de adicionar jogo com 
 suas principais informações, fazer avaliações do mesmo e até editá-los. Para utilizar de muitos destes artifícios, o 
@@ -25,7 +23,6 @@ suas principais informações, fazer avaliações do mesmo e até editá-los. Pa
 * Nome de usuário; I. 
 * Senha; I.
   - **I.** Não pode ser vazio.
-
 ---
 ### Menu Principal
 Nesse menu, tem-se uma versatilidade de opções. Navegando por eles, será possível desde interagir 
