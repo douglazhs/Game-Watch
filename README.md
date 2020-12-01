@@ -84,3 +84,7 @@ funcionalidades do sistema e as proteções de jogos. Na opção ***“Help”**
 o sistema, suas funcionalidades e as proteções. 
 
  - Estão contidas em ***“Sobre o programa”*** informações do aplicativo, como nome e descrição.
+ [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+ [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+ 
+ 
