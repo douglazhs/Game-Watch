@@ -19,8 +19,8 @@ que seria esse “burlamento de proteção”? Bom, muitos jogos atualmente acom
 que os usuários não consigam obtê-lo de outra forma, a não ser comprando. Porém, é só questão de tempo até que 
 grupos de programadores especializados na quebra desses sistemas de segurança apareçam e consigam burlar o 
 mesmo. Um dos mais famosos e mais utilizados desses sistemas de segurança é o Denuvo. Porém, muitas empresas 
-não adotam esse tipo artifício em seus games, como a CD Project, que tem a seguinte afirmativa: > Se meu jogo for 
-bom o suficiente, as pessoas comprá-lo-ão.
+não adotam esse tipo artifício em seus games, como a CD Project, que tem a seguinte afirmativa: 
+> Se meu jogo for bom o suficiente, as pessoas comprá-lo-ão.
 
 ---
 ## Linguagem/Hospedagem 💻
