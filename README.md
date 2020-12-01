@@ -71,12 +71,12 @@ diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver list
  - Os famosos **Grupos** de crack, que também estão contidos nesse sistema, são acessados a partir da terceira 
 opção do Menu Principal, com as seguintes possibilidades:
 
-  - Em “Ver Grupos”, serão listados todos os **Grupos** que estão cadastrados no sistema, com suas devidas 
-  informações, como o seu nome, descrição, membros(não necessariamente os nomes reais) e a sua nota, 
-  baseada nas avaliações dos **Posts**.
+   - Em “Ver Grupos”, serão listados todos os **Grupos** que estão cadastrados no sistema, com suas devidas 
+     informações, como o seu nome, descrição, membros(não necessariamente os nomes reais) e a sua nota, 
+     baseada nas avaliações dos **Posts**.
 
-  - Já em “Deixar Mensagem”, segue os mesmos passos dos tópicos 1.1.3 e 1.1.4, mudando apenas o foco 
-  para o **Grupo**.
+   - Já em “Deixar Mensagem”, segue os mesmos passos dos tópicos 1.1.3 e 1.1.4, mudando apenas o foco 
+     para o **Grupo**.
 
  - Ainda falando sobre o Menu Principal, tem-se a possibilidade de conhecer mais um pouco sobre as 
 funcionalidades do sistema e as proteções de jogos. Na opção “Help”, será mostrado um breve resumo sobre 
