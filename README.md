@@ -47,12 +47,12 @@ diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver list
         sistema.
       - Pode existir mais de um.
 
-    - Na opção “Editar”, **Usuário** pode alterar informações que estão descritas no tópico 1.1.1. Para isso, o 
+   - Na opção “Editar”, **Usuário** pode alterar informações que estão descritas no tópico 1.1.1. Para isso, o 
      mesmo também precisa ter um cadastro feito ou efetuar um, caso queira fazer uso dessa opção;
 
-    - Na opção “Ver Jogo” o Usuário poderá pesquisar por algum jogo que queira e, caso alguém já tenha o 
-      cadastrado no sistema, será mostrado todas as suas informações e a opção de ver os **Posts** feitos por 
-      outros **Usuários**, além dos **Requisitos** Mínimos para rodar o jogo.
+   - Na opção “Ver Jogo” o Usuário poderá pesquisar por algum jogo que queira e, caso alguém já tenha o 
+     cadastrado no sistema, será mostrado todas as suas informações e a opção de ver os **Posts** feitos por 
+     outros **Usuários**, além dos **Requisitos** Mínimos para rodar o jogo.
 
       * Os usuários tem a opção de se identificar na hora do **Post** ou não. Caso não se identifique, seu nome 
         de usuário ficar como anônimo na postagem.
@@ -61,7 +61,7 @@ diretamente(adicionar ou editar jogo) com o sistema, como indiretamente(ver list
         **disco**(armazenamento necessário para instalar) e **RAM**(quantidade de memória RAM para abrir o 
         jogo sem problemas).
 
-   - Em avaliar, será pedido o login do **Usuário**. Após isso, ele será redirecionado à criação do **Post**, que 
+  - Em avaliar, será pedido o login do **Usuário**. Após isso, ele será redirecionado à criação do **Post**, que 
      consiste no **Comentário** e em uma nota de 0-5 para o jogo.
 
  - O usuário pode querer ver os jogos e suas notas antes de jogá-lo, para ter uma noção da experiência que terá.
